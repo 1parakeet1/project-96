@@ -1,0 +1,13 @@
+body
+{
+    background-image: url("abcd.jpg");
+     background-size: cover;
+}
+#user_name
+{
+    width: 30%;
+}
+
+
+
+

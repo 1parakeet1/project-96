@@ -1,0 +1,13 @@
+#abc{
+    position: absolute;
+    left: 1200px;
+    top: 20px;
+}
+#abcd{
+height: 30px;
+width: 45px;
+}
+body{
+    background-image: url("Twitter-Hole-featured.jpg");
+     background-size: cover;
+}
